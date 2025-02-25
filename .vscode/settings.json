@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.h": "verilog",
+        "iostream": "cpp"
+    }
+}
